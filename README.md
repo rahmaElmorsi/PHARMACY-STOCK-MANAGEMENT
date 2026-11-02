@@ -1,1 +1,1 @@
-Live Demo: [Pharmacy Inventory Management System]
+Live Demo: [ https://rahmaelmorsi.github.io/PHARMACY-STOCK-MANAGEMENT/]
